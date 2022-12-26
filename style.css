@@ -12,6 +12,8 @@ body{
 	margin: 0;
 	padding: 0;
 	font-family: 'Titillium Web', sans-serif;
+	max-width: 1558px;
+	min-width: 1558px;
 }
 .header-area{
 	background-color: #87509c;
